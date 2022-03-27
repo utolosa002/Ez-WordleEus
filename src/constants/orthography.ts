@@ -15,7 +15,7 @@ export const ORTHOGRAPHY = [
   'l',
   'm',
   'n',
-  'n',
+  'ñ',
   'o',
   'p',
   'q',
