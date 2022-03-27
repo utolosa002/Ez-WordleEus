@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ez-Wordle/static/css/main.16bd559e.css",
-    "main.js": "/ez-Wordle/static/js/main.5c9bd57b.js",
-    "static/js/787.40d31dcd.chunk.js": "/ez-Wordle/static/js/787.40d31dcd.chunk.js",
-    "static/media/BCSans-Bold.woff": "/ez-Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/ez-Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/ez-Wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/ez-Wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/ez-Wordle/index.html",
-    "static/media/getFetch.cjs": "/ez-Wordle/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.16bd559e.css.map": "/ez-Wordle/static/css/main.16bd559e.css.map",
-    "main.5c9bd57b.js.map": "/ez-Wordle/static/js/main.5c9bd57b.js.map",
-    "787.40d31dcd.chunk.js.map": "/ez-Wordle/static/js/787.40d31dcd.chunk.js.map"
+    "main.css": "/Ez-WordleEus/static/css/main.16bd559e.css",
+    "main.js": "/Ez-WordleEus/static/js/main.5c9bd57b.js",
+    "static/js/787.40d31dcd.chunk.js": "/Ez-WordleEus/static/js/787.40d31dcd.chunk.js",
+    "static/media/BCSans-Bold.woff": "/Ez-WordleEus/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/Ez-WordleEus/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/Ez-WordleEus/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/Ez-WordleEus/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/Ez-WordleEus/index.html",
+    "static/media/getFetch.cjs": "/Ez-WordleEus/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.16bd559e.css.map": "/Ez-WordleEus/static/css/main.16bd559e.css.map",
+    "main.5c9bd57b.js.map": "/Ez-WordleEus/static/js/main.5c9bd57b.js.map",
+    "787.40d31dcd.chunk.js.map": "/Ez-WordleEus/static/js/787.40d31dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16bd559e.css",
-    "static/js/main.5c9bd57b.js"
+    "/Ez-WordleEus/static/css/main.16bd559e.css",
+    "/Ez-WordleEus/static/js/main.5c9bd57b.js"
   ]
 }
