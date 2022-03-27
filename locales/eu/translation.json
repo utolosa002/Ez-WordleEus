@@ -1,0 +1,101 @@
+{
+    "about": "Honi buruz",
+    "gameName": "Ez Wordle - {{language}}",
+    "enterKey": "Sakatu",
+    "deleteKey": "Ezabatu",
+    "notEnoughLetters": "Ez du nahikoa letrarik",
+    "wordNotFound": "Ez da hitza aurkitu",
+    "solution": "{{solution}} hitza zen erantzuna",
+    "gameCopied": "Jokoa arbelean kopiatuta",
+    "howToPlay": "Nola jokatu",
+    "instructions": "Asmatu hitza {{tries}} saiakeratan. Saiakera bakoitzaren ostean letren kolorea aldatu egingo da. Horrek hitza asmatzeko zenbat falta zaigun esango digu.",
+    "pickYourLanguage": "Hautatu hizkuntza",
+    "correctSpotInstructions": "Hitzean badago E letra eta toki egolkian dago.",
+    "wrongSpotInstructions": "Hitzean L letra badago, baina toki okerrean.",
+    "notInWordInstructions": "Hitzak ez du A letrarik.",
+    "guessDistribution": "Asmatze kasuak",
+    "statistics": "Estatistikak",
+    "totalTries": "Saiakera guztiak",
+    "successRate": "Arrakasta-tasa",
+    "currentStreak": "Uneko seriea",
+    "bestStreak": "Serie onena",
+    "newWordCountdown": "Hurrengo hitza",
+    "share": "Zabaldu",
+    "winMessages": [
+        "Ongi!",
+        "Primeran!",
+        "Ongi jokatua!"
+    ],
+    "firstExampleWord": [{
+            "letter": "E",
+            "highlight": true
+        },
+        {
+            "letter": "D",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "B",
+            "highlight": false
+        },
+        {
+            "letter": "E",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "M",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "L",
+            "highlight": true
+        },
+        {
+            "letter": "U",
+            "highlight": false
+        },
+        {
+            "letter": "R",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "E",
+            "highlight": false
+        },
+        {
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": true
+        },
+        {
+            "letter": "Z",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "Hau Wordleren kode askeko {{language}}zko klona da. <3>{{author}}</3>-k itzulia",
+    "aboutCodeSentence": "Ikusi <3>Hannah Park</3>-en <1>kode originala</1> edo begiratu <5>Aidan Pine-ren forka</5> eta pertsonalizatu zurea.",
+    "aboutDataSentence": "Jokoko hitzak <1>{{wordListSource}}</1>tik lortu dira. ",
+    "aboutOriginalSentence": "Joko originalera ere joka dezakezu <1>hemen</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "eu": "Euskara"
+    }
+}
